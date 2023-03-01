@@ -5,7 +5,7 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What tags are necessary for a complete HTML Skeleton?
-!DOCTYPE html, html, head, title, body, and p
+!DOCTYPE html, html, head, title, body, & p
 - What type of content belongs within the `<head>` of an HTML document?
 The document's title which will be shown in the browser title or page tab/
 - What type of content belongs within the `<body>` of an HTML document?
